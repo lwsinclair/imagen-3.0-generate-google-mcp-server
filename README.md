@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/falahgs-imagen-3-0-generate-google-mcp-server-badge.png)](https://mseep.ai/app/falahgs-imagen-3-0-generate-google-mcp-server)
+
 # Gemini Imagen 3.0 MCP Server
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
